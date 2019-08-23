@@ -53,3 +53,7 @@ Runs the app in the development mode. You will also see any lint errors in the c
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 mongodb://best-for-you-db-40533-g:43JNjT9StUlseaEXbtBQ4R8u9EFzbu5vX4WO018jvlHb2cbtlV8HQw9jTcpN8kL7cVdeXMGVr15y2hAJtiG0pg==@best-for-you-db-40533-g.documents.azure.com:10255/?ssl=true&replicaSet=globaldb
+
+mongoimport --host best-for-you-db-40533-g.documents.azure.com:10255 -u best-for-you-db-40533-g -p 43JNjT9StUlseaEXbtBQ4R8u9EFzbu5vX4WO018jvlHb2cbtlV8HQw9jTcpN8kL7cVdeXMGVr15y2hAJtiG0pg== --db
+best-for-you-organics --collection plans --ssl --sslAllowInvalidCertificates --type
+json --file ~/MongoExport/plans.json
