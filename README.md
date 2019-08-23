@@ -51,3 +51,5 @@ Your app is ready to be deployed!
 Runs the app in the development mode. You will also see any lint errors in the console.
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+mongodb://best-for-you-db-40533-g:43JNjT9StUlseaEXbtBQ4R8u9EFzbu5vX4WO018jvlHb2cbtlV8HQw9jTcpN8kL7cVdeXMGVr15y2hAJtiG0pg==@best-for-you-db-40533-g.documents.azure.com:10255/?ssl=true&replicaSet=globaldb
