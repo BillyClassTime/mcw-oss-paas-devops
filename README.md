@@ -57,3 +57,6 @@ mongodb://best-for-you-db-40533-g:43JNjT9StUlseaEXbtBQ4R8u9EFzbu5vX4WO018jvlHb2c
 mongoimport --host best-for-you-db-40533-g.documents.azure.com:10255 -u best-for-you-db-40533-g -p 43JNjT9StUlseaEXbtBQ4R8u9EFzbu5vX4WO018jvlHb2cbtlV8HQw9jTcpN8kL7cVdeXMGVr15y2hAJtiG0pg== --db
 best-for-you-organics --collection plans --ssl --sslAllowInvalidCertificates --type
 json --file ~/MongoExport/plans.json
+
+
+http://bestforyouregistry40553g.azurecr.io
