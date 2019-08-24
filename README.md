@@ -59,4 +59,4 @@ best-for-you-organics --collection plans --ssl --sslAllowInvalidCertificates --t
 json --file ~/MongoExport/plans.json
 
 
-http://bestforyouregistry40553g.azurecr.io
+bestforyouregistry40553g.azurecr.io/best-for-you-organics:latest
