@@ -60,3 +60,9 @@ json --file ~/MongoExport/plans.json
 
 
 bestforyouregistry40553g.azurecr.io/best-for-you-organics:latest
+
+
+bestforyouregistry40553g.azurecr.io
+bestforyouregistry40553G
+tFYogvU5kuvxob1X2uO+XeWXIsv3ua6A
+
